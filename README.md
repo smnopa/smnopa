@@ -25,9 +25,7 @@
 
 ## Frameworks
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-0e1e25?style=for-the-badge&logo=astro&logoColor=white)
 
 ## Bases de Datos y Herramientas
