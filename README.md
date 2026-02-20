@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-- 🎓 Tengo 22 años y actualmente estoy estudiando ingeniería en sistemas en la UDI.
+- 🎓 Tengo 23 años y actualmente estoy estudiando ingeniería en sistemas en la UDI.
 - 🖥️ También soy estudiante de una tecnología en análisis y desarrollo de software en el SENA.
 - 💻 Disfruto aprendiendo sobre nuevas tecnologías y frameworks.
 - 👯 Estoy buscando oportunidades para colaborar en proyectos relacionados con el desarrollo de software.
