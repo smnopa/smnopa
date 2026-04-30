@@ -1,15 +1,19 @@
 # ¡Hola! 👋
-
-¡Bienvenido a mi perfil de GitHub! Soy Samuel Bautista Alvarado, un apasionado estudiante de ingeniería en sistemas en la Universidad de Investigación y Desarrollo (UDI), además de estar cursando una tecnología en análisis y desarrollo de software en el SENA. Me encanta explorar el mundo de la programación y colaborar en proyectos interesantes.
+¡Bienvenido a mi perfil de GitHub! Soy Samuel Bautista Alvarado,
+un apasionado tecnólogo en análisis y desarrollo de software por
+el SENA y próximo ingeniero en sistemas de la Universidad de
+Investigación y Desarrollo (UDI). Me encanta explorar el mundo
+de la programación y colaborar en proyectos interesantes.
 
 ## Sobre mí
-
-- 🎓 Tengo 23 años y actualmente estoy estudiando ingeniería en sistemas en la UDI.
-- 🖥️ También soy estudiante de una tecnología en análisis y desarrollo de software en el SENA.
+- 🎓 Tengo 23 años y estoy a punto de graduarme como ingeniero
+  en sistemas de la UDI.
+- 🏅 Tecnólogo en análisis y desarrollo de software — SENA.
 - 💻 Disfruto aprendiendo sobre nuevas tecnologías y frameworks.
-- 👯 Estoy buscando oportunidades para colaborar en proyectos relacionados con el desarrollo de software.
-- 💬 Si tienes alguna pregunta sobre mis estudios o proyectos, ¡no dudes en preguntar!
-
+- 👯 Estoy buscando oportunidades para colaborar en proyectos
+  relacionados con el desarrollo de software.
+- 💬 Si tienes alguna pregunta sobre mis estudios o proyectos,
+  ¡no dudes en preguntar!
 ## Conecta conmigo ☕ :
 
 <br>
