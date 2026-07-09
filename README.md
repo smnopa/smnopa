@@ -18,7 +18,7 @@ de la programación y colaborar en proyectos interesantes.
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/_smnopa_/?hl=es-la) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/samuel-bautista-alvarado-b95734237/) 
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/_smnopa_/?hl=es-la) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/smnopa/) 
 
 ## Lenguajes y Tecnologías
 
